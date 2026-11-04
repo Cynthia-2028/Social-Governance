@@ -1,6 +1,6 @@
 ---
 name: social-governance
-version: "1.0.0"
+version: "1.1.0"
 agent_created: true
 display_name: 社会治理
 display_name_en: Social Governance
@@ -14,6 +14,8 @@ description_en: "A knowledge base for social governance, crossing sociology and 
 这个 skill 是社会治理领域的知识库与工作流，由一批治理研究与社会学材料（论文与专著混合）提炼而成，含六条理论路线、中国治理体系经验、一套方法工具、选题库、评审量表与教学话术。**核心行为只有一条：接到任务先判断任务类型，再路由到对应的知识文件与工作流。**
 
 ---
+
+描述校准提示：本库另含四组增补专题——乡村基层制度（授权来源、乡规民约与成员资格）、平台劳动与算法管理、旧城改造中的利益表达、乡村数字经济；当用户提到基层政权、乡规民约、外卖骑手、平台用工、旧城改造、拆迁补偿、农村电商、乡村振兴时，优先读对应文件的（增补）节。
 
 ## 0. 任务类型速查
 
@@ -116,11 +118,11 @@ description_en: "A knowledge base for social governance, crossing sociology and 
 | `references/07-urban-rural-land.md` | 城乡关系与土地制度 |
 | `references/08-digital.md` | 数字治理：平台、算法与技术治理 |
 | `references/09-methods.md` | 研究方法 |
-| `references/10-topics.md` | 选题库（44 个可操作问题） |
+| `references/10-topics.md` | 选题库（54 个可操作问题） |
 | `references/11-writing.md` | 论文写作 |
 | `references/12-review-rubric.md` | 论文质量评估量表（100 分制） |
 | `references/13-teaching.md` | 科普与教学 |
 | `references/14-values.md` | 价值导向与表述规范 |
-| `references/15-glossary.md` | 术语表（170+ 条） |
-| `references/16-cases.md` | 案例分析范例（12 例） |
+| `references/15-glossary.md` | 术语表（200+ 条） |
+| `references/16-cases.md` | 案例分析范例（15 例） |
 | `references/17-audit.md` | 依据强度审计 |
